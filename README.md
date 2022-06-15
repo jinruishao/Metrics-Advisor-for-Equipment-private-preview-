@@ -21,7 +21,7 @@ If your goal is to detect system level anomalies from a group of time series dat
 
 ### Prerequisites
 
-1. Preprocessing your data based on our requirments.
+1. [Preprocessing your data](https://github.com/jinruishao/Metrics-Advisor-for-Equipment-private-preview-/blob/main/Preprocessing%20your%20data.md)
 2. [Create an Azure resource](https://go.microsoft.com/fwlink/?linkid=2142156) for Metrics Advisor. 
 3.  login to Metrics Advisor studio and clicked the Adel card to start trying out the service.
 4. Create a model and onboard your data.
